@@ -1,6 +1,6 @@
-# 📊 HR Analytics — SQL & Tableau
+#  HR Analytics — SQL & Tableau
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing employee data to understand **workforce patterns, employee attrition, job roles, demographics, job satisfaction, and other HR-related trends**.
 
@@ -8,7 +8,7 @@ The project combines **SQL-based data analysis** with **Tableau data visualizati
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze employee demographics and workforce distribution
 * Calculate employee attrition and attrition rate
@@ -19,7 +19,7 @@ The project combines **SQL-based data analysis** with **Tableau data visualizati
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **MySQL** — Data analysis and SQL queries
 * **Tableau** — Data visualization and dashboard development
@@ -27,7 +27,7 @@ The project combines **SQL-based data analysis** with **Tableau data visualizati
 
 ---
 
-## 📊 Key Analysis
+## Key Analysis
 
 The project covers:
 
@@ -46,14 +46,14 @@ The project covers:
 
 ---
 
-## 📈 Dashboard
+## Dashboard
 
 An interactive **Tableau HR Analytics Dashboard** was created to present the key findings through KPIs, charts, and filters.
 
 Users can explore the data based on different employee attributes and analyze workforce and attrition patterns interactively.
 
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 HR-Analytics-SQL-Tableau/
@@ -79,13 +79,13 @@ HR-Analytics-SQL-Tableau/
 
 ---
 
-## 🔍 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 **SQL | MySQL | Tableau | Data Analysis | Data Visualization | Dashboard Development | Business Insights**
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Ankita Chaturvedi**
 
