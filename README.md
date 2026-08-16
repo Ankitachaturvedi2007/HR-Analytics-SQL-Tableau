@@ -52,11 +52,6 @@ An interactive **Tableau HR Analytics Dashboard** was created to present the key
 
 Users can explore the data based on different employee attributes and analyze workforce and attrition patterns interactively.
 
-### Dashboard Preview
-
-![HR Analytics Dashboard](Dashboard/HR_Analytics_Dashboard.png)
-
----
 
 ## 📁 Project Structure
 
